@@ -1,2 +1,4 @@
-streamlit
-pyloat
+streamlit==0.89.0
+plotly==4.14.3
+Pillow==8.2.0
+
